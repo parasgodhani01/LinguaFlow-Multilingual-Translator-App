@@ -1,4 +1,4 @@
-# Linguaflow
+# Linguaflow  Multilingual Translator 
 
 Linguaflow is a multilingual translation API built using FastAPI and MarianMT from Hugging Face Transformers. This project enables translation between English and other languages like French, Portuguese, and Spanish. The project was developed as part of a course at **Grow Data Skills**.
 
