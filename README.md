@@ -11,46 +11,6 @@ Linguaflow is a multilingual translation API built using FastAPI and MarianMT fr
 
 ---
 
-## Prerequisites
-- Python 3.8 or later
-- pip
-
----
-
-## Setup and Installation
-
-Follow these steps to set up and run the project:
-
-### 1. Clone the Repository
-```bash
-# Clone the repository to your local machine
-git clone <repository-url>
-cd linguaflow
-```
-
-### 2. Create a Virtual Environment
-```bash
-# Windows
-python -m venv venv
-.\venv\Scripts\activate
-
-# macOS/Linux
-python3 -m venv venv
-source venv/bin/activate
-```
-
-### 3. Install Dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Run the Application
-```bash
-uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
-```
-
-### 5. Test the API
-Visit [http://127.0.0.1:8000](http://127.0.0.1:8000) to view the root endpoint. Use the `/translate` endpoint to translate text.
 
 #### Sample Payload:
 ```json
