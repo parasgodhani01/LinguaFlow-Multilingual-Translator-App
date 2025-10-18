@@ -28,16 +28,7 @@ Linguaflow is a robust multilingual translation API developed using FastAPI and 
 
 ---
 
-## Project Structure
-```
-Linguaflow/
-│
-├── app/
-│   ├── main.py         # FastAPI application code
-│
-├── requirements.txt    # Dependency list
-├── README.md           # Project documentation
-```
+
 
 
 
